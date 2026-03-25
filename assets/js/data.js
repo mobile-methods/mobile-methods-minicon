@@ -126,7 +126,7 @@ window.SITE_DATA = {
       name: 'Energy Advancement and Innovation Center',
       link: 'https://fdc.osu.edu/energy-advancement-and-innovation-center',
       blurb:
-        'Day 1 programming will be hosted in person at the Energy Advancement and Innovation Center. Additional logistical details will be added as they are confirmed.'
+        'Programming will be hosted in person at the Energy Advancement and Innovation Center. Additional logistical details will be added as they are confirmed.'
     }
   }
 };
