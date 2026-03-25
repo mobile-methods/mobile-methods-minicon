@@ -113,7 +113,7 @@
       .map(
         (person) => `
           <article class="card person-card">
-            <img src="${person.image}" alt="${person.alt}" loading="lazy" />
+            <img src="${person.image}" alt="${person.alt}" loading="lazy" data-organizer-image />
             <div class="card-body">
               <h3>${person.name}</h3>
               <p class="muted">${person.title}</p>
@@ -123,6 +123,12 @@
         `
       )
       .join('');
+
+    mount.querySelectorAll('[data-organizer-image]').forEach((image) => {
+      image.addEventListener('error', () => {
+        image.src = 'assets/images/organizer-placeholder.svg';
+      });
+    });
   }
 
   function renderVenues() {
