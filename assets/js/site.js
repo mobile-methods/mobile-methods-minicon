@@ -137,6 +137,15 @@
       day1.innerHTML = `
         <h2>${data.venues.day1.name}</h2>
         <p>${data.venues.day1.blurb}</p>
+        <div class="venue-map" aria-label="Map showing the Day 1 venue location">
+          <iframe
+            src="${data.venues.day1.mapEmbedUrl}"
+            title="Map for ${data.venues.day1.name}"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            allowfullscreen
+          ></iframe>
+        </div>
         <a class="button button-secondary" href="${data.venues.day1.link}" target="_blank" rel="noopener noreferrer">Visit Venue Website</a>
       `;
     }
