@@ -93,7 +93,7 @@
     mount.innerHTML = data.speakers
       .map(
         (speaker) => `
-          <article class="card person-card">
+          <article class="card person-card speaker-card${speaker.noCrop ? ' no-crop' : ''}">
             <img src="${speaker.image}" alt="${speaker.alt || `Headshot of ${speaker.name}`}" loading="lazy" style="object-position: ${speaker.focus || '50% 30%'}" data-speaker-image />
             <div class="card-body">
               <h3>${speaker.name}</h3>
