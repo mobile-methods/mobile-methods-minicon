@@ -140,7 +140,7 @@ window.SITE_DATA = {
       image: 'assets/images/bond.jpg',
       alt: 'Headshot of Rob Bond',
       focus: '60% 30%',
-      fit: 'contain'
+      noCrop: true
     },
     {
       name: 'Scott Campbell',
