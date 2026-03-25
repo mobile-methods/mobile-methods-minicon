@@ -190,6 +190,21 @@ p { margin: 0 0 1rem; }
 }
 
 .card-body { padding: 1rem; }
+
+.venue-map {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.venue-map iframe {
+  display: block;
+  width: 100%;
+  min-height: 320px;
+  border: 0;
+}
+
 .person-card img {
   width: 100%;
   aspect-ratio: 4 / 3;

@@ -125,6 +125,8 @@ window.SITE_DATA = {
     day1: {
       name: 'Energy Advancement and Innovation Center',
       link: 'https://fdc.osu.edu/energy-advancement-and-innovation-center',
+      mapEmbedUrl:
+        'https://www.google.com/maps?q=Energy+Advancement+and+Innovation+Center+Columbus+OH&output=embed',
       blurb:
         'Day 1 programming will be hosted in person at the Energy Advancement and Innovation Center. Additional logistical details will be added as they are confirmed.'
     }
