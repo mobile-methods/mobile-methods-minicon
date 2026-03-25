@@ -103,21 +103,21 @@ window.SITE_DATA = {
       name: 'Joe Bayer',
       title: 'Associate Professor, School of Communication, Ohio State University',
       bio: 'Professor Bayer\'s research focuses on mobile methods, particularly the study of mental processes that underlie social connection.<br /><br /><a href="https://www.josephbayer.com/" target="_blank" rel="noopener noreferrer">Visit Joe Bayer\'s website</a>.',
-      image: 'assets/images/joe-bayer.jpg',
+      image: 'assets/images/bayer.jpeg',
       alt: 'Headshot of Joe Bayer'
     },
     {
       name: 'Rob Bond',
       title: 'Professor, School of Communication, Ohio State University',
       bio: 'Professor Bond\'s research focuses on political communication and social networks.<br /><br /><a href="https://robertmbond.net/" target="_blank" rel="noopener noreferrer">Visit Rob Bond\'s website</a>.',
-      image: 'assets/images/rob-bond.jpg',
+      image: 'assets/images/bond.jpg',
       alt: 'Headshot of Rob Bond'
     },
     {
       name: 'Scott Campbell',
       title: 'Rinehart Chair in Mediated Communication, School of Communication, Ohio State University',
       bio: 'Professor Campbell\'s research explains the social uses and consequences of mobile media and communication.<br /><br /><a href="https://comm.osu.edu/people/campbell.2844" target="_blank" rel="noopener noreferrer">Visit Scott Campbell\'s website</a>.',
-      image: 'assets/images/scott-campbell.jpg',
+      image: 'assets/images/campbell.jpg',
       alt: 'Headshot of Scott Campbell'
     },
     {
