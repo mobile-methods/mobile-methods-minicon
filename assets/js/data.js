@@ -119,6 +119,13 @@ window.SITE_DATA = {
       bio: 'Professor Campbell\'s research explains the social uses and consequences of mobile media and communication.<br /><br /><a href="https://comm.osu.edu/people/campbell.2844" target="_blank" rel="noopener noreferrer">Visit Scott Campbell\'s website</a>.',
       image: 'assets/images/scott-campbell.jpg',
       alt: 'Headshot of Scott Campbell'
+    },
+    {
+      name: 'Morgan Quinn Ross',
+      title: 'Assistant Professor, School of Communication, Oregon State University',
+      bio: 'Professor Ross\'s research program examines how people use digital technology to weave communication into their lives.',
+      image: 'assets/images/organizer-placeholder.svg',
+      alt: 'Placeholder image for Morgan Quinn Ross'
     }
   ],
   venues: {
