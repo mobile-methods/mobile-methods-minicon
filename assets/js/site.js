@@ -135,7 +135,7 @@
     const day1 = document.querySelector('[data-venue-day1]');
     if (day1) {
       day1.innerHTML = `
-        <h2>Day 1 · ${data.venues.day1.name}</h2>
+        <h2>${data.venues.day1.name}</h2>
         <p>${data.venues.day1.blurb}</p>
         <a class="button button-secondary" href="${data.venues.day1.link}" target="_blank" rel="noopener noreferrer">Visit Venue Website</a>
       `;
