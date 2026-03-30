@@ -9,7 +9,7 @@ window.SITE_DATA = {
     rsvpReady: false
   },
   nav: [
-    { href: 'index.html', label: 'Home' },
+    { href: 'index.html', label: 'Overview' },
     { href: 'about.html', label: 'About' },
     { href: 'program.html', label: 'Program' },
     { href: 'speakers.html', label: 'Speakers' },
