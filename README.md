@@ -49,7 +49,7 @@ Update in `data.js` for:
 - RSVP readiness and registration URL
 
 Page-specific narrative content is in each page file:
-- `index.html`, `about.html`, `program.html`, `speakers.html`, `venue.html`, `organizers.html`, `registration.html`, `contact.html`
+- `index.html`, `program.html`, `speakers.html`, `venue.html`, `organizers.html`, `registration.html`, `contact.html`
 
 ## 5) Where to replace key placeholders
 
@@ -109,7 +109,7 @@ When moving to a custom domain:
 4. Enable HTTPS in Pages settings.
 
 ### Base-path note
-This site uses **relative links** (e.g., `about.html`, `assets/...`), which helps it work both on:
+This site uses **relative links** (e.g., `program.html`, `assets/...`), which helps it work both on:
 - GitHub Pages project URLs (e.g., `/mobile-methods-minicon/`) and
 - Custom domains at root
 
@@ -118,7 +118,6 @@ This site uses **relative links** (e.g., `about.html`, `assets/...`), which help
 ```text
 mobile-methods-minicon/
 ├── index.html
-├── about.html
 ├── program.html
 ├── speakers.html
 ├── venue.html

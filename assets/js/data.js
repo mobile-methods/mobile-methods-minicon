@@ -10,7 +10,6 @@ window.SITE_DATA = {
   },
   nav: [
     { href: 'index.html', label: 'Overview' },
-    { href: 'about.html', label: 'About' },
     { href: 'program.html', label: 'Program' },
     { href: 'speakers.html', label: 'Speakers' },
     { href: 'venue.html', label: 'Venue' },
