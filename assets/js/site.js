@@ -113,28 +113,34 @@
   }
 
   function renderOrganizers() {
-    const mount = document.querySelector('[data-organizer-grid]');
-    if (!mount) return;
-    mount.innerHTML = data.organizers
-      .map(
-        (person) => `
-          <article class="card person-card organizer-card${person.noCrop ? ' no-crop' : ''}">
-            <img src="${person.image}" alt="${person.alt}" loading="lazy" style="object-position: ${person.focus || '50% 35%'}" data-organizer-image />
-            <div class="card-body">
-              <h3>${person.name}</h3>
-              <p class="muted">${person.title}</p>
-              <p>${person.bio}</p>
-            </div>
-          </article>
-        `
-      )
-      .join('');
+    function renderPeopleGrid(mountSelector, people) {
+      const mount = document.querySelector(mountSelector);
+      if (!mount || !Array.isArray(people)) return;
 
-    mount.querySelectorAll('[data-organizer-image]').forEach((image) => {
-      image.addEventListener('error', () => {
-        image.src = 'assets/images/organizer-placeholder.svg';
+      mount.innerHTML = people
+        .map(
+          (person) => `
+            <article class="card person-card organizer-card${person.noCrop ? ' no-crop' : ''}">
+              <img src="${person.image}" alt="${person.alt}" loading="lazy" style="object-position: ${person.focus || '50% 35%'}" data-organizer-image />
+              <div class="card-body">
+                <h3>${person.name}</h3>
+                <p class="muted">${person.title}</p>
+                <p>${person.bio}</p>
+              </div>
+            </article>
+          `
+        )
+        .join('');
+
+      mount.querySelectorAll('[data-organizer-image]').forEach((image) => {
+        image.addEventListener('error', () => {
+          image.src = 'assets/images/organizer-placeholder.svg';
+        });
       });
-    });
+    }
+
+    renderPeopleGrid('[data-organizer-grid]', data.organizers);
+    renderPeopleGrid('[data-support-team-grid]', data.supportTeam);
   }
 
   function renderVenues() {
