@@ -195,7 +195,7 @@ window.SITE_DATA = {
   venues: {
     day1: {
       name: 'Blackwell / Pfahl Convention Center (3rd Floor)',
-      link: 'https://www.google.com/maps?q=Pfahl+Convention+Center+Columbus+OH',
+      link: 'https://planevents.osu.edu/venues-and-services/blackwell-and-pfahl-conference-center',
       mapEmbedUrl:
         'https://www.google.com/maps?q=Pfahl+Convention+Center+Columbus+OH&output=embed',
       blurb:
