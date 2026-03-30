@@ -158,6 +158,40 @@ window.SITE_DATA = {
       focus: '56% 32%'
     }
   ],
+  supportTeam: [
+    {
+      name: 'Yuxin Li',
+      title: 'PhD student at Ohio State University',
+      bio: 'Yuxin Li\'s research examines how digital media shape various dimensions of human well-being, with a focus on the perceptual and cognitive processes that mediate these effects.<br /><br /><a href="https://comm.osu.edu/people/li.15058" target="_blank" rel="noopener noreferrer">Visit Yuxin Li\'s profile</a>.',
+      image: 'assets/images/organizer-placeholder.svg',
+      alt: 'Placeholder headshot for Yuxin Li',
+      focus: '50% 50%'
+    },
+    {
+      name: 'Yuning Liu',
+      title: 'PhD candidate at Harvard',
+      bio: 'Yuning Liu\'s research examines social media and mental health, digital well-being design, online health communication, and media exposures to eating disorders risk factors.<br /><br /><a href="https://yuning-liu-712.github.io/yuningliu.github.io//" target="_blank" rel="noopener noreferrer">Visit Yuning Liu\'s profile</a>.',
+      image: 'assets/images/organizer-placeholder.svg',
+      alt: 'Placeholder headshot for Yuning Liu',
+      focus: '50% 50%'
+    },
+    {
+      name: 'Yifei Lu',
+      title: 'PhD student at the University of Pennsylvania',
+      bio: 'Yifei Lu investigates the mechanisms underlying meaningful social connection, with a particular focus on how individual and contextual differences influence interaction processes and outcomes.<br /><br /><a href="https://www.asc.upenn.edu/people/graduate-student/yifei-lu" target="_blank" rel="noopener noreferrer">Visit Yifei Lu\'s profile</a>.',
+      image: 'assets/images/organizer-placeholder.svg',
+      alt: 'Placeholder headshot for Yifei Lu',
+      focus: '50% 50%'
+    },
+    {
+      name: 'Razieh Pourafshari',
+      title: 'PhD student at Ohio State University',
+      bio: 'Razieh Pourafshari\'s research interests primarily focus on the temporal modeling of technology use, including a combined focus on short-term and long-term trajectories of app use.<br /><br /><a href="https://scholar.google.com/citations?user=7qPOGekAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Visit Razieh Pourafshari\'s profile</a>.',
+      image: 'assets/images/organizer-placeholder.svg',
+      alt: 'Placeholder headshot for Razieh Pourafshari',
+      focus: '50% 50%'
+    }
+  ],
   venues: {
     day1: {
       name: 'Blackwell / Pfahl Convention Center (3rd Floor)',
