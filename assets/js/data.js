@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   conference: {
-    title: 'The Mobile Methods Mini-con @OSU',
+    title: 'The Mobile Methods Minicon @OSU',
     tagline: 'Advancing mobile methods and analytics in Communication and beyond',
     dates: 'May 1, 2026',
     hostLine:
@@ -161,12 +161,12 @@ window.SITE_DATA = {
   ],
   venues: {
     day1: {
-      name: 'Energy Advancement and Innovation Center',
-      link: 'https://fdc.osu.edu/energy-advancement-and-innovation-center',
+      name: 'Blackwell / Pfahl Convention Center (3rd Floor)',
+      link: 'https://www.google.com/maps?q=Pfahl+Convention+Center+Columbus+OH',
       mapEmbedUrl:
-        'https://www.google.com/maps?q=Energy+Advancement+and+Innovation+Center+Columbus+OH&output=embed',
+        'https://www.google.com/maps?q=Pfahl+Convention+Center+Columbus+OH&output=embed',
       blurb:
-        'Programming will be hosted in person at the Energy Advancement and Innovation Center. Additional logistical details will be added as they are confirmed.'
+        'Programming will be hosted in person at the Blackwell / Pfahl Convention Center (3rd Floor). Additional logistical details will be added as they are confirmed.'
     }
   }
 };
