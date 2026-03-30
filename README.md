@@ -1,6 +1,6 @@
-# The Mobile Methods Mini-con @OSU Website
+# The Mobile Methods Minicon @OSU Website
 
-A lightweight, multi-page static conference site for **The Mobile Methods Mini-con @OSU** (May 1–2, 2026), designed for easy deployment on GitHub Pages and straightforward migration to a custom domain.
+A lightweight, multi-page static conference site for **The Mobile Methods Minicon @OSU** (May 1–2, 2026), designed for easy deployment on GitHub Pages and straightforward migration to a custom domain.
 
 ## 1) Project overview
 
