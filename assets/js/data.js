@@ -62,8 +62,8 @@ window.SITE_DATA = {
       name: 'David Lydon-Staley',
       affiliation: 'Associate Professor, School for Communication, University of Pennsylvania',
       bio: 'Lydon-Staley focuses on moment-to-moment and day-to-day fluctuations in brain, behavior, and interpersonal and media environments to provide insight into substance use, emotion dynamics, and curiosity across the lifespan.<br /><br /><a href="https://www.asc.upenn.edu/people/faculty/david-lydon-staley-mfa-phd" target="_blank" rel="noopener noreferrer">Visit David Lydon-Staley\'s profile</a>.',
-      image: 'assets/images/speaker-placeholder.svg',
-      alt: 'Portrait placeholder for David Lydon-Staley',
+      image: 'assets/images/Staley.avif',
+      alt: 'Headshot of David Lydon-Staley',
       focus: '50% 30%'
     },
     {
