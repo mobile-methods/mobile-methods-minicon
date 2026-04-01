@@ -59,6 +59,14 @@ window.SITE_DATA = {
       focus: '50% 20%'
     },
     {
+      name: 'David Lydon-Staley',
+      affiliation: 'Associate Professor, School for Communication, University of Pennsylvania',
+      bio: 'Lydon-Staley focuses on moment-to-moment and day-to-day fluctuations in brain, behavior, and interpersonal and media environments to provide insight into substance use, emotion dynamics, and curiosity across the lifespan.<br /><br /><a href="https://www.asc.upenn.edu/people/faculty/david-lydon-staley-mfa-phd" target="_blank" rel="noopener noreferrer">Visit David Lydon-Staley\'s profile</a>.',
+      image: 'assets/images/speaker-placeholder.svg',
+      alt: 'Portrait placeholder for David Lydon-Staley',
+      focus: '50% 30%'
+    },
+    {
       name: 'Huyen Le',
       affiliation: 'Associate Professor, Department of Geography, Ohio State University',
       bio: 'Professor Le\'s research lies at the intersection of transportation, environment, health, and well-being.<br /><br /><a href="https://geography.osu.edu/people/le.253" target="_blank" rel="noopener noreferrer">Visit Huyen Le\'s profile</a>.',
