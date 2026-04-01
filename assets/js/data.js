@@ -21,7 +21,7 @@ window.SITE_DATA = {
     {
       name: 'Ine Beyens',
       affiliation: 'Assistant Professor, School of Communication Research (ASCoR), University of Amsterdam',
-      bio: 'Professor Beyens\' research focuses on the effects of media on the emotional, psychological, and social development of children and adolescents.<br /><br /><a href="https://www.uva.nl/en/profile/b/e/i.beyens/i.beyens.html" target="_blank" rel="noopener noreferrer">Visit Ine Beyens\' profile</a>.',
+      bio: 'Professor Beyens explores the impact of digital and social media on the emotional, psychological, and social development of children and adolescents, using intensive longitudinal methods like experience sampling and data donation.<br /><br /><a href="https://www.uva.nl/en/profile/b/e/i.beyens/i.beyens.html" target="_blank" rel="noopener noreferrer">Visit Ine Beyens\' profile</a>.',
       image: 'assets/images/Beyens.png',
       alt: 'Headshot of Ine Beyens',
       focus: '50% 22%'
@@ -29,7 +29,7 @@ window.SITE_DATA = {
     {
       name: 'Jeff Boase',
       affiliation: 'Associate Professor, Institute of Communication, Culture, Information, and Technology, University of Toronto',
-      bio: 'Professor Boase\'s research focuses on the relationship between communication technology and personal networks.<br /><br /><a href="https://jboase.com/" target="_blank" rel="noopener noreferrer">Visit Jeff Boase\'s website</a>.',
+      bio: 'Professor Boase focuses on how communication technologies like mobile phones are woven into personal networks, using digital trace data alongside surveys and interviews across Japan, the US, and Canada.<br /><br /><a href="https://jboase.com/" target="_blank" rel="noopener noreferrer">Visit Jeff Boase\'s website</a>.',
       image: 'assets/images/Boase.webp',
       alt: 'Headshot of Jeff Boase',
       focus: '50% 24%'
@@ -37,7 +37,7 @@ window.SITE_DATA = {
     {
       name: 'Ulrich Ebner-Priemer',
       affiliation: 'Professor, Institute of Sports and Sports Science, Karlsruhe Institute of Technology',
-      bio: 'Professor Ebner-Priemer\'s research focuses on mHealth approaches for mental disorders and is characterized by its methodological focus on Ambulatory Assessment.<br /><br /><a href="https://www.ifss.kit.edu/english/Staff_Prof_DrUlrich_Ebner-Priemer.php#block3801" target="_blank" rel="noopener noreferrer">Visit Ulrich Ebner-Priemer\'s profile</a>.',
+      bio: 'Professor Ebner-Priemer specializes in Ambulatory Assessment (EMA/ESM/digital phenotyping) approaches to understand momentary mechanisms, monitor illness trajectories, and deliver mHealth interventions across a broad range of mental disorders.<br /><br /><a href="https://www.ifss.kit.edu/english/Staff_Prof_DrUlrich_Ebner-Priemer.php#block3801" target="_blank" rel="noopener noreferrer">Visit Ulrich Ebner-Priemer\'s profile</a>.',
       image: 'assets/images/Ebner-Priemer.png',
       alt: 'Headshot of Ulrich Ebner-Priemer',
       focus: '50% 20%'
@@ -45,7 +45,7 @@ window.SITE_DATA = {
     {
       name: 'Gaby Harari',
       affiliation: 'Assistant Professor, Department of Communication, Stanford University',
-      bio: 'Professor Harari studies how personality is expressed in the physical and digital contexts of everyday life.<br /><br /><a href="https://comm.stanford.edu/people/gabriella-harari" target="_blank" rel="noopener noreferrer">Visit Gaby Harari\'s profile</a>.',
+      bio: 'Professor Harari focuses on psychological and behavioral patterns in digital trace data and mobile sensing.<br /><br /><a href="https://comm.stanford.edu/people/gabriella-harari" target="_blank" rel="noopener noreferrer">Visit Gaby Harari\'s profile</a>.',
       image: 'assets/images/harari.webp',
       alt: 'Headshot of Gaby Harari',
       focus: '50% 18%'
@@ -53,7 +53,7 @@ window.SITE_DATA = {
     {
       name: 'Ross Jacobucci',
       affiliation: 'Research Assistant Professor, Center for Healthy Minds, University of Wisconsin-Madison',
-      bio: 'Professor Jacobucci\'s research is at the intersection of machine learning and clinical psychology. With cutting-edge research in digital phenotyping, he develops computational methods that transform how we understand and predict mental health crises.<br /><br /><a href="https://rjacobucci.com/" target="_blank" rel="noopener noreferrer">Visit Ross Jacobucci\'s website</a>.',
+      bio: 'Professor Jacobucci specializes in using machine learning and digital phenotyping to understand and predict mental health crises.<br /><br /><a href="https://rjacobucci.com/" target="_blank" rel="noopener noreferrer">Visit Ross Jacobucci\'s website</a>.',
       image: 'assets/images/Jacobucci.jpeg',
       alt: 'Headshot of Ross Jacobucci',
       focus: '50% 20%'
@@ -69,7 +69,7 @@ window.SITE_DATA = {
     {
       name: 'Huyen Le',
       affiliation: 'Associate Professor, Department of Geography, Ohio State University',
-      bio: 'Professor Le\'s research lies at the intersection of transportation, environment, health, and well-being.<br /><br /><a href="https://geography.osu.edu/people/le.253" target="_blank" rel="noopener noreferrer">Visit Huyen Le\'s profile</a>.',
+      bio: 'Professor Le explores the relationships among transportation, environment, and well-being, including how information and communication technologies shape mobility, energy use, and the health impacts of daily travel.<br /><br /><a href="https://geography.osu.edu/people/le.253" target="_blank" rel="noopener noreferrer">Visit Huyen Le\'s profile</a>.',
       image: 'assets/images/Le.jpg',
       alt: 'Headshot of Huyen Le',
       focus: '50% 18%'
@@ -77,7 +77,7 @@ window.SITE_DATA = {
     {
       name: 'Laura Marciano',
       affiliation: 'Assistant Professor, The Media School, Indiana University Bloomington',
-      bio: 'Professor Marciano\'s research examines the longitudinal link between smartphone use, social media, and teen well-being.<br /><br /><a href="https://www.laura-marciano.com/" target="_blank" rel="noopener noreferrer">Visit Laura Marciano\'s website</a>.',
+      bio: 'Professor Marciano studies how smartphone and social media use influence adolescent well-being using longitudinal, real-time methods such as ecological momentary assessment, trace data, and digital biomarkers.<br /><br /><a href="https://www.laura-marciano.com/" target="_blank" rel="noopener noreferrer">Visit Laura Marciano\'s website</a>.',
       image: 'assets/images/marciano.webp',
       alt: 'Headshot of Laura Marciano',
       focus: '50% 20%'
@@ -85,7 +85,7 @@ window.SITE_DATA = {
     {
       name: 'Matthias Mehl',
       affiliation: 'Professor, Department of Psychology, University of Arizona',
-      bio: 'Professor Mehl\'s research focuses on the conceptualization and measurement of how everyday social processes affect health and well-being. He employs mobile sensing methods for studying real-world social interactions and has pioneered a method that involves the unobtrusive sampling of ambient sounds via a smartphone app (the Electronically Activated Recorder, or EAR).<br /><br /><a href="https://psychology.arizona.edu/person/matthias-mehl" target="_blank" rel="noopener noreferrer">Visit Matthias Mehl\'s profile</a>.',
+      bio: 'Professor Mehl studies psychological implications of our everyday social lives for personality, wellbeing, and health; ambulatory assessment and mobile sensing methods; and psychological language analysis.<br /><br /><a href="https://psychology.arizona.edu/person/matthias-mehl" target="_blank" rel="noopener noreferrer">Visit Matthias Mehl\'s profile</a>.',
       image: 'assets/images/Mehl.jpg.webp',
       alt: 'Headshot of Matthias Mehl',
       focus: '50% 22%'
@@ -93,7 +93,7 @@ window.SITE_DATA = {
     {
       name: 'Lukas Otto',
       affiliation: 'Senior Researcher, Department of Computational Social Sciences, GESIS-Leibniz Institute for the Social Sciences',
-      bio: 'Otto\'s research focuses on political communication, media psychology, and methods of communication research.<br /><br /><a href="https://lukasotto.com/" target="_blank" rel="noopener noreferrer">Visit Lukas Otto\'s website</a>.',
+      bio: 'Otto studies political communication, media psychology, and methods of communication research.<br /><br /><a href="https://lukasotto.com/" target="_blank" rel="noopener noreferrer">Visit Lukas Otto\'s website</a>.',
       image: 'assets/images/Otto.png',
       alt: 'Headshot of Lukas Otto',
       focus: '50% 18%'
@@ -101,7 +101,7 @@ window.SITE_DATA = {
     {
       name: 'Doug Parry',
       affiliation: 'Assistant Professor, Department of Communication Science, Vrije Universiteit Amsterdam',
-      bio: 'Professor Parry\'s research examines the ways in which adolescents and young adults use digital media; the potential effects that this behavior can have on their cognition, mental health, and well-being; and the knowledge and skills that enable them to thrive in a digital society.<br /><br /><a href="https://dougaparry.com/" target="_blank" rel="noopener noreferrer">Visit Doug Parry\'s website</a>.',
+      bio: 'Professor Parry adopts media psychological perspectives to research the ways in which adolescents and young adults use digital media; the potential effects that this behaviour can have on their cognition, mental health, and well-being; and the knowledge and skills that enable them to thrive in a digital society.<br /><br /><a href="https://dougaparry.com/" target="_blank" rel="noopener noreferrer">Visit Doug Parry\'s website</a>.',
       image: 'assets/images/parry.png',
       alt: 'Headshot of Doug Parry',
       focus: '50% 25%'
@@ -109,7 +109,7 @@ window.SITE_DATA = {
     {
       name: 'Josh Smyth',
       affiliation: 'Professor, Department of Psychology, Ohio State University',
-      bio: 'Professor Smyth\'s research focuses on the application of the biopsychosocial model to meaningful health-related processes, contexts, and outcomes.<br /><br /><a href="https://psychology.osu.edu/people/smyth.88" target="_blank" rel="noopener noreferrer">Visit Josh Smyth\'s profile</a>.',
+      bio: 'Professor Smyth studies the effects of stress on psychological and physical well-being, assesses biopsychosocial processes of stress and behavior using ecologically relevant methods, and develops behavioral interventions.<br /><br /><a href="https://psychology.osu.edu/people/smyth.88" target="_blank" rel="noopener noreferrer">Visit Josh Smyth\'s profile</a>.',
       image: 'assets/images/Smyth.jpg',
       alt: 'Headshot of Josh Smyth',
       focus: '50% 20%'
@@ -117,7 +117,7 @@ window.SITE_DATA = {
     {
       name: 'Lara Wolfers',
       affiliation: 'Assistant Professor, Faculty of Psychology, University of Basel',
-      bio: 'Professor Wolfers researches the digital everyday life and how digital media influence well-being and social relationships.<br /><br /><a href="https://psychologie.unibas.ch/en/persons/wolfers-lara-nikola/" target="_blank" rel="noopener noreferrer">Visit Lara Wolfers\' profile</a>.',
+      bio: 'Professor Wolfers researches digital everyday life and how digital media influence well-being and social relationships.<br /><br /><a href="https://psychologie.unibas.ch/en/persons/wolfers-lara-nikola/" target="_blank" rel="noopener noreferrer">Visit Lara Wolfers\' profile</a>.',
       image: 'assets/images/wolfers.jpg',
       alt: 'Headshot of Lara Wolfers',
       focus: '50% 22%'
@@ -125,7 +125,7 @@ window.SITE_DATA = {
     {
       name: 'Andrew Yee',
       affiliation: 'Assistant Professor, Wee Kim Wee School of Communication and Information, Nanyang Technological University',
-      bio: 'Professor Yee\'s research projects span three main areas: the effects of smartphones and social media on youth mental health, preschoolers\' screen media experiences, and how video games shape identity and well-being.<br /><br /><a href="https://andrewzhyee.com/" target="_blank" rel="noopener noreferrer">Visit Andrew Yee\'s website</a>.',
+      bio: 'Professor Yee studies the effects of smartphones and social media on youth mental health, preschoolers\' screen media experiences, and how video games shape identity and well-being.<br /><br /><a href="https://andrewzhyee.com/" target="_blank" rel="noopener noreferrer">Visit Andrew Yee\'s website</a>.',
       image: 'assets/images/Yee.jpg',
       alt: 'Headshot of Andrew Yee',
       focus: '50% 18%'
