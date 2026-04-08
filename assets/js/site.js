@@ -75,15 +75,10 @@
 
   function initRegistrationCtas() {
     document.querySelectorAll('[data-register-cta]').forEach((cta) => {
-      const isReady = data.conference.rsvpReady;
-      cta.textContent = isReady ? 'Register for May 1' : 'RSVP link coming soon';
-      if (isReady) {
-        cta.href = data.conference.rsvpUrl;
-      } else {
-        cta.href = '#';
-        cta.setAttribute('aria-disabled', 'true');
-        cta.classList.add('disabled');
-      }
+      cta.textContent = 'Register here';
+      cta.href = data.conference.rsvpUrl;
+      cta.removeAttribute('aria-disabled');
+      cta.classList.remove('disabled');
     });
   }
 

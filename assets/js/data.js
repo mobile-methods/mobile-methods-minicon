@@ -5,8 +5,8 @@ window.SITE_DATA = {
     dates: 'May 1, 2026',
     hostLine:
       'Hosted by the School of Communication in coordination with TDAI at The Ohio State University',
-    rsvpUrl: '#',
-    rsvpReady: false
+    rsvpUrl: 'https://osu.az1.qualtrics.com/jfe/form/SV_38FbplxnjY4BjTw',
+    rsvpReady: true
   },
   nav: [
     { href: 'index.html', label: 'Overview' },
