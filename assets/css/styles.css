@@ -220,6 +220,17 @@ p { margin: 0 0 1rem; }
 
 .muted { color: var(--muted); }
 
+.status-note {
+  display: inline-block;
+  margin: 0.25rem 0 0;
+  padding: 0.45rem 0.7rem;
+  border-radius: 10px;
+  background: rgba(187, 0, 0, 0.1);
+  border: 1px solid rgba(187, 0, 0, 0.3);
+  color: var(--osu-scarlet-deep);
+  font-weight: 600;
+}
+
 .button-group {
   display: flex;
   flex-wrap: wrap;
