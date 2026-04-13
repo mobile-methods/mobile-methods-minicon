@@ -75,7 +75,7 @@
 
   function initRegistrationCtas() {
     document.querySelectorAll('[data-register-cta]').forEach((cta) => {
-      cta.textContent = 'Register here';
+      cta.textContent = 'Join Waitlist';
       cta.href = data.conference.rsvpUrl;
       cta.removeAttribute('aria-disabled');
       cta.classList.remove('disabled');
