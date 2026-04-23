@@ -136,7 +136,7 @@ window.SITE_DATA = {
     {
       name: 'Joe Bayer',
       title: 'Associate Professor, School of Communication, Ohio State University',
-      bio: 'Professor Bayer\'s research focuses on mobile methods, particularly the study of mental processes that underlie social connection.<br /><br /><a href="https://www.josephbayer.com/" target="_blank" rel="noopener noreferrer">Visit Joe Bayer\'s website</a>.',
+      bio: 'Professor Bayer\'s research uses mobile methods to understand smartphone habits and their implications for social connection and digital well-being.<br /><br /><a href="https://www.josephbayer.com/" target="_blank" rel="noopener noreferrer">Visit Joe Bayer\'s website</a>.',
       image: 'assets/images/bayer.jpeg',
       alt: 'Headshot of Joe Bayer',
       focus: '44% 28%'
