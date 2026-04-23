@@ -21,7 +21,7 @@ window.SITE_DATA = {
   speakers: [
     {
       name: 'Ine Beyens',
-      affiliation: 'Assistant Professor, School of Communication Research (ASCoR), University of Amsterdam',
+      affiliation: 'Amsterdam School of Communication Research',
       bio: 'Professor Beyens explores the impact of digital and social media on the emotional, psychological, and social development of children and adolescents, using intensive longitudinal methods like experience sampling and data donation.<br /><br /><a href="https://www.uva.nl/en/profile/b/e/i.beyens/i.beyens.html" target="_blank" rel="noopener noreferrer">Visit Ine Beyens\' profile</a>.',
       image: 'assets/images/Beyens.png',
       alt: 'Headshot of Ine Beyens',
